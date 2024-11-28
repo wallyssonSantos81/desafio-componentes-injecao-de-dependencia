@@ -41,4 +41,5 @@ public class Order {
     public void setBasic(double basic) {
         this.basic = basic;
     }
+
 }
